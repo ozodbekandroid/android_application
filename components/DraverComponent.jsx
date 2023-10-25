@@ -7,7 +7,7 @@ const DraverComponent = (props) => {
         <View style={{ flex: 1}}>
             <View style={{ flex: 1 }}>
                 <ImageBackground source={{ uri: "https://unsplash.it/300/300/?random"}} style={{ width: "100%" , height:200}}>
-                    <Text>hello</Text>
+                    <Text>hel</Text>
                 </ImageBackground>
                 <DrawerContentScrollView {...props}>
                     <DrawerItemList {...props} />
